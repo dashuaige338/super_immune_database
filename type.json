@@ -1,0 +1,290 @@
+{
+    "name": "LTHSC.34-.BM",
+    "children": [
+        {
+            "name": "LTHSC.34+.BM",
+            "children": [
+                {
+                    "name": "STHSC.150-.BM",
+                    "children": [
+                        {
+                            "name": "MPP4.135+.BM",
+                            "children": [
+                                {
+                                    "name": "proB.CLP.BM",
+                                    "children": [
+                                        {
+                                            "name": "proB.FrA.BM",
+                                            "children": [
+                                                {
+                                                    "name": "proB.FrBC.BM",
+                                                    "children": [
+                                                        {
+                                                            "name": "preB.FrD.BM",
+                                                            "children": [
+                                                                {
+                                                                    "name": "B.FrE.BM",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "B1b.PC"
+                                                                        },
+                                                                        {
+                                                                            "name": "B.T1.Sp",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "B.T2.Sp",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "B.T3.Sp",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "B.Fo.Sp",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "B.GC.CB.Sp",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "B.GC.CC.Sp",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "name": "B.PB.Sp",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "name": "B.PC.Sp",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "name": "B.PC.BM"
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "name": "B.mem.Sp"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "B.MZ.Sp"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "B.Sp"
+                                                                        },
+                                                                        {
+                                                                            "name": "B.Fem.Sp"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "preT.DN1.Th",
+                                    "children": [
+                                        {
+                                            "name": "preT.DN2a.Th",
+                                            "children": [
+                                                {
+                                                    "name": "preT.DN2b.Th",
+                                                    "children": [
+                                                        {
+                                                            "name": "preT.DN3.Th",
+                                                            "children": [
+                                                                {
+                                                                    "name": "preT.DN4.Th",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Tgd.Sp"
+                                                                        },
+                                                                        {
+                                                                            "name": "Tgd.g2+d17.24a+.Th",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "Tgd.g2+d17.LN"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "Tgd.g2+d1.24a+.Th",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "Tgd.g2+d1.LN"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "Tgd.g1.1+d1.24a+.Th",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "Tgd.g1.1+d1.LN"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "T.ISP.Th",
+                                                                            "children":[
+                                                                                {
+                                                                                    "name": "T.DP.Th",
+                                                                                    "children":[
+                                                                                        {
+                                                                                            "name": "T.8.Th",
+                                                                                            "children":[
+                                                                                                {
+                                                                                                    "name": "T.8.Nve.Sp",
+                                                                                                    "children":[
+                                                                                                        {
+                                                                                                            "name": "T8.TN.P14.Sp"
+                                                                                                        },
+                                                                                                        {"name": "T8.Tcm.LCMV.d180.Sp"},
+                                                                                                        {
+                                                                                                            "name": "T8.MP.LCMV.d7.Sp",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "T8.Tem.LCMV.d180.Sp"
+                                                                                                                },
+                                                                                                                {"name": "T8.TE.LCMV.d7.Sp"}
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {"name": "T8.IEL.LCMV.d7.SI"}
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "T.4.Th",
+                                                                                            "children":[
+                                                                                                {
+                                                                                                    "name": "Treg.4.25hi.Sp"
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "T.4.Nve.Sp",
+                                                                                                    "children":[
+                                                                                                        {
+                                                                                                            "name": "Treg.4.FP3+.Nrplo.Co"
+                                                                                                        },
+                                                                                                        {"name": "T.4.Sp.aCD3+CD40.18hr"}
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "NKT.Sp",
+                                                                                                    "children":[
+                                                                                                        {
+                                                                                                            "name": "NKT.Sp.LPS.3hr",
+                                                                                                            "children":[
+                                                                                                                {
+                                                                                                                    "name": "NKT.Sp.LPS.18hr",
+                                                                                                                    "children":[
+                                                                                                                        {"name": "NKT.Sp.LPS.3d"}
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ] 
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "NK.27+11b-.Sp",
+                                    "children":[
+                                        {
+                                            "name": "NK.27+11b+.Sp",
+                                            "children":[
+                                                {"name": "NK.27-11b+.Sp"}
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "NK.27+11b-.BM",
+                                    "children":[
+                                        {
+                                            "name": "NK.27+11b+.BM",
+                                            "children":[
+                                                {"name": "NK.27-11b+.BM"}
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "ILC3.NKp46+.SI"
+                                },
+                                {
+                                    "name": "ILC3.NKp46-CCR6-.SI"
+                                },
+                                {
+                                    "name": "ILC3.CCR6+.SI"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MPP3.48+.BM",
+                            "children": [
+                                {
+                                    "name": "Mo.6C+II-.Bl",
+                                    "children":[
+                                        {"name": "MF.LP.SI"},
+                                        {"name": "MF.226+II+480lo.PC"}
+                                    ]
+                                },
+                                {
+                                    "name": "Mo.6C-II-.Bl"
+                                },
+                                {
+                                    "name": "GN.BM",
+                                    "children":[
+                                        {"name": "GN.Thio.PC"},
+                                        {"name": "GN.Sp"}
+                                    ]
+                                },
+                                {
+                                    "name": "DC.pDC.Sp"
+                                },
+                                {
+                                    "name": "DC.8+.Sp"
+                                },
+                                {
+                                    "name": "DC.4+.Sp"
+                                },
+                                {
+                                    "name": "DC.103+11b+.SI"
+                                },
+                                {
+                                    "name": "DC.103+11b-.SI"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
